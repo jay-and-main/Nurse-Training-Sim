@@ -1306,3 +1306,219 @@ Received Import Request.
 Start importing Assets/Materials/Human_Material/Wall Paint.mat using Guid(b158ad46f510b46a0a688f775a6a4110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b629c996ba73557d40289083d32e13f7') in 0.172909 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 176.471769 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(321494320d5a64e3d88f974452f6a440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(321494320d5a64e3d88f974452f6a440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca602828bce96288c26fe4a8f56e298') in 0.000801 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 18.484725 seconds.
+  path: Assets/Materials/Skin.mat
+  artifactKey: Guid(5d79ef77715bc4784b565776a5f2502a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skin.mat using Guid(5d79ef77715bc4784b565776a5f2502a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22f36ea1ca9ef34ed1b2b432d592deef') in 0.006715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 43.225084 seconds.
+  path: Assets/Materials/Eyeball.mat
+  artifactKey: Guid(60fb50da605814a4b9863b118bd84b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Eyeball.mat using Guid(60fb50da605814a4b9863b118bd84b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68900f007638711b2c0b8f916221f826') in 0.005257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 12.965126 seconds.
+  path: Assets/Materials/Eyeball.mat
+  artifactKey: Guid(60fb50da605814a4b9863b118bd84b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Eyeball.mat using Guid(60fb50da605814a4b9863b118bd84b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '547768856ea5695ea4fb53357ab37ded') in 0.005078 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 179.379154 seconds.
+  path: Assets/Models/OP_Mitte.fbx
+  artifactKey: Guid(6b7f0955a3cbf4ea5af07c9791a6f3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/OP_Mitte.fbx using Guid(6b7f0955a3cbf4ea5af07c9791a6f3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd2d0b726c9d9db069694de207e7d159') in 0.067459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 8.335734 seconds.
+  path: Assets/Models/OP_Mitte.fbx
+  artifactKey: Guid(6b7f0955a3cbf4ea5af07c9791a6f3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/OP_Mitte.fbx using Guid(6b7f0955a3cbf4ea5af07c9791a6f3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3fa1a961f7292022151994cc9c7803') in 0.033391 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Models/Mitte_OP_Tex2.mat
+  artifactKey: Guid(bd17ddd17279b4d0f86e5bd099543a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Mitte_OP_Tex2.mat using Guid(bd17ddd17279b4d0f86e5bd099543a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b834e0509f8c2e60058f69655f904d0') in 0.002757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 14.302218 seconds.
+  path: Assets/Models/OP_Mitte.fbx
+  artifactKey: Guid(6b7f0955a3cbf4ea5af07c9791a6f3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/OP_Mitte.fbx using Guid(6b7f0955a3cbf4ea5af07c9791a6f3a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bd80fff7c9ab369ab5f5a9d08942762') in 0.034779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 258.325126 seconds.
+  path: Assets/Volumetric_OR_Room1.jpg
+  artifactKey: Guid(026a829a26fa148f699ec36f04956463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Volumetric_OR_Room1.jpg using Guid(026a829a26fa148f699ec36f04956463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea462b7baceabf3ed4bb60bafb73a16c') in 0.009624 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Volumetric_OR_Room4.jpg
+  artifactKey: Guid(b4ba0024e3ab644debcf5d4cb02b3439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Volumetric_OR_Room4.jpg using Guid(b4ba0024e3ab644debcf5d4cb02b3439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a654893e085ecd937766ce965ce76bca') in 0.003620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Volumetric_OR_Room3.jpg
+  artifactKey: Guid(0f01347e501e74006a5469e41c140ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Volumetric_OR_Room3.jpg using Guid(0f01347e501e74006a5469e41c140ede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cb3e47164481ffddf853e20cb263d53') in 0.003200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 10.288430 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15d8135ce6614ad707b7f2c38bb4c232') in 0.115902 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81c154a2f1701bde39b3dbf3a4ebc59') in 0.007827 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af0bd14b214d7e35318ae6afb936a55b') in 0.003573 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.052250 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg
+  artifactKey: Guid(85ac55597b97403c82fc6601a93cf241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg using Guid(85ac55597b97403c82fc6601a93cf241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9dece6e8b0328c91c378fd0369f038') in 0.003759 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.021228 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+  artifactKey: Guid(4beb055f07aaff244873dec698d0363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf using Guid(4beb055f07aaff244873dec698d0363e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd50b91a41630373c80f5095829105744') in 0.021164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+  artifactKey: Guid(03d0538de6e24c0f819bfc9ce084dfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg using Guid(03d0538de6e24c0f819bfc9ce084dfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c233432e6a2f00ee37ca9fcbd2e39e66') in 0.001949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+  artifactKey: Guid(1cdc5b506b1a4a33a53c30669ced1f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg using Guid(1cdc5b506b1a4a33a53c30669ced1f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4402e6522ddf5a33966c566e13f4431d') in 0.002844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002053 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6496f136bcc1f022eaa81e88b504dfde') in 0.016426 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.002038 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+  artifactKey: Guid(602cb87b6a29443b8636370ea0751574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg using Guid(602cb87b6a29443b8636370ea0751574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48c2d586f450b4ebf2c6fbd43d4f3d88') in 0.003124 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png
+  artifactKey: Guid(4ccf43d26c4748c792174516f4a8fcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png using Guid(4ccf43d26c4748c792174516f4a8fcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c05d2b5f6c963335a803778e626d14c') in 0.002766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+  artifactKey: Guid(17c350171f7a3ca479f830547c66d187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg using Guid(17c350171f7a3ca479f830547c66d187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84fa3bb23b561f8538768e9c6ce639fa') in 0.002772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+  artifactKey: Guid(c76d18757a194d618355f05f815cb0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png using Guid(c76d18757a194d618355f05f815cb0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b871a298fc2c389ebaf75a113c131b7') in 0.003997 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.224120 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+  artifactKey: Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd using Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddc2971353194d955956beda72ebdd34') in 0.002977 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd
+  artifactKey: Guid(7631f4eff8f74ed38eb3eb9db17134e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd using Guid(7631f4eff8f74ed38eb3eb9db17134e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28a86a90cd140d4c8c7167ed90502ad3') in 0.002225 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 100.588534 seconds.
+  path: Assets/Prefabs/OP_Mitte.prefab
+  artifactKey: Guid(9f715fd066fae4c7fa42395b255fce4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/OP_Mitte.prefab using Guid(9f715fd066fae4c7fa42395b255fce4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c05f6970a8a11435e540fea3a1c84755') in 0.014086 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 1.635414 seconds.
+  path: Assets/Prefabs/OP_Mitte.prefab
+  artifactKey: Guid(9f715fd066fae4c7fa42395b255fce4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/OP_Mitte.prefab using Guid(9f715fd066fae4c7fa42395b255fce4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55663fe096c86f854a6529684df51461') in 0.015488 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 32
