@@ -2648,6 +2648,54 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "InsertRemove",
+            "id": "09c1f68e-e8b1-4602-93fd-656d62ef7f30",
+            "actions": [
+                {
+                    "name": "Insert",
+                    "type": "Value",
+                    "id": "d40372f7-b7b7-4606-b6b5-41e8b1451bdb",
+                    "expectedControlType": "Digital",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Remove",
+                    "type": "Value",
+                    "id": "7b8d7cdb-b5be-4189-98ba-8d35505f333b",
+                    "expectedControlType": "Digital",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7e2a1bef-4760-47ce-a915-e517cc908e87",
+                    "path": "<XRController>{RightHand}/{Primary2DAxisClick}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Insert",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2f525591-3a46-4a1d-a567-2ff88cc6aaf9",
+                    "path": "<XRController>{LeftHand}/{Primary2DAxisClick}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Remove",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

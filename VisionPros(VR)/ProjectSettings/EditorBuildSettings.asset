@@ -17,9 +17,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Copy 8am.unity
     guid: 1c95fa44e07054d85b1e87ad1085a242
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Copy 11am.unity
     guid: d142f80790fe8412991a1dc15793e21f
+  - enabled: 1
+    path: Assets/Scenes/Copy 5pm.unity
+    guid: 30c999f5f9cd9410f8cb18b221e57e3f
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d884633b9a12c9f42a505a02f65994c8,
       type: 2}
