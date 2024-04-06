@@ -1673,3 +1673,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7166.579848 seconds.
+  path: Assets/Prefab/Fieberthermometer.prefab
+  artifactKey: Guid(db2c4fa9844629145bc22dd7516520ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Fieberthermometer.prefab using Guid(db2c4fa9844629145bc22dd7516520ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6cef02bfb68bdc791659cfd83f4f58') in 0.211578 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 59
+========================================================================
+Received Import Request.
+  Time since last request: 2.812619 seconds.
+  path: Assets/Prefabs/Fieberthermometer.prefab
+  artifactKey: Guid(9f641f3bc2813429bb8b50c9253b6918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Fieberthermometer.prefab using Guid(9f641f3bc2813429bb8b50c9253b6918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c11f69b9fb4284978a9356bc42ef724') in 0.021521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 39
+========================================================================
+Received Import Request.
+  Time since last request: 7.122119 seconds.
+  path: Assets/Prefabs/AttachTo (1).prefab
+  artifactKey: Guid(6d5c8653c330b47e99e703bc8f2fce9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/AttachTo (1).prefab using Guid(6d5c8653c330b47e99e703bc8f2fce9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6db702ef7c6a823c3f7c214846901bc') in 0.013368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
