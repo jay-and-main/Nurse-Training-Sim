@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Prefab/HospitalWard 4am.unity
     guid: 18ff1ed19705f446ba4b9e5b4a30b648
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Copy 4am.unity
     guid: 4b979c2dc108b45fd9f7f39a950636ee
+  - enabled: 1
+    path: Assets/Scenes/Copy 8am.unity
+    guid: 1c95fa44e07054d85b1e87ad1085a242
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d884633b9a12c9f42a505a02f65994c8,
       type: 2}

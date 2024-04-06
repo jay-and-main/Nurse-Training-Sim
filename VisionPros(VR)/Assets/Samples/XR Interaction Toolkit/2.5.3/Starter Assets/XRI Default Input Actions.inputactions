@@ -2600,6 +2600,54 @@
                     "isPartOfComposite": false
                 }
             ]
+        },
+        {
+            "name": "Ascend",
+            "id": "77b2cfab-84c9-4dfc-a342-388a45795c0c",
+            "actions": [
+                {
+                    "name": "Ascend",
+                    "type": "Value",
+                    "id": "38af1564-5fd2-4bb8-8c2c-34777971aed4",
+                    "expectedControlType": "Digital",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Descend",
+                    "type": "Value",
+                    "id": "53ca8e88-48bb-42a6-8ce0-482b10318698",
+                    "expectedControlType": "Digital",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b06922c7-320a-496d-9727-4c740baac4e3",
+                    "path": "<XRController>/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Ascend",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "51c6825b-2e13-4d34-8196-4a2d7dd739a8",
+                    "path": "<XRController>/{SecondaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Descend",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
         }
     ],
     "controlSchemes": [

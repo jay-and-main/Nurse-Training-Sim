@@ -1,48 +1,33 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.XR; // Required for InputDevice
-using UnityEngine.XR.Interaction.Toolkit; // Required for XRController
+using UnityEngine.InputSystem;
 
 public class BedController : MonoBehaviour
 {
-    public GameObject objectToMove; // The GameObject to move
-    public float yOffset = 0.01f; // The amount to move the GameObject by
-    public XRController controller; // The controller to check for button presses
+    public InputActionReference bedActionUp;
+    public InputActionReference bedActionDown;
 
-    // Update is called once per frame
-    void Update()
+    public GameObject bed;
+    void Start()
     {
-        CheckForInput();
+
     }
-
-    void CheckForInput()
+    void FixedUpdate()
     {
-        InputDevice device = controller.inputDevice;
-
-        // Check if the Oculus B button is pressed (Oculus controller mapping)
-        if (device.TryGetFeatureValue(CommonUsages.secondaryButton, out bool secondaryButtonValue) && secondaryButtonValue)
+        float bedValueUp = bedActionUp.action.ReadValue<float>();
+        float bedValueDown = bedActionDown.action.ReadValue<float>();
+        Vector3 bedPosition = bed.transform.position;
+        if (bed.transform.position.y > 0.1f)
         {
-            MoveObjectDown();
+            bed.transform.position = new Vector3(bedPosition.x, 0.1f, bedPosition.z);
         }
-        // Check if the Oculus A button is pressed (Oculus controller mapping)
-        else if (device.TryGetFeatureValue(CommonUsages.primaryButton, out bool primaryButtonValue) && primaryButtonValue)
+        if (bed.transform.position.y < 0.05f)
         {
-            MoveObjectUp();
+            bed.transform.position = new Vector3(bedPosition.x, 0.05f, bedPosition.z);
         }
-    }
-
-    void MoveObjectUp()
-    {
-        Vector3 newPosition = objectToMove.transform.position;
-        newPosition.y += yOffset;
-        objectToMove.transform.position = newPosition;
-    }
-
-    void MoveObjectDown()
-    {
-        Vector3 newPosition = objectToMove.transform.position;
-        newPosition.y -= yOffset;
-        objectToMove.transform.position = newPosition;
+        bedPosition.y += bedValueUp / 50;
+        bedPosition.y -= bedValueDown / 50;
+        bed.transform.position = bedPosition;
     }
 }
