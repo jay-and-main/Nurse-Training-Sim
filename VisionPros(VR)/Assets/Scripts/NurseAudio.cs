@@ -8,11 +8,14 @@ public class NurseAudio : MonoBehaviour
     public AudioClip checkOxygenAudioClip;
     public AudioClip StartIVAudioClip;
     public AudioClip performIVAudioClip;
+    public AudioClip doneAudioClip;
     private AudioSource nurseAudioSource;
     public TempDisp tempDisp;
     public OxiDisp oxiDisp;
+    public SyringeCollide syringeCollide;
     public bool tempVoiceDone = false;
     public bool oxiVoiceDone = false;
+    public SyringeLogic syringeLogic;
 
     void Start()
     {
@@ -31,6 +34,12 @@ public class NurseAudio : MonoBehaviour
         {
             oxiVoiceDone = true;
             StartCoroutine(PlayIVClipAfterDelay());
+            syringeLogic.isTransparent = true;
+        }
+        if (syringeCollide.isSyringeDone)
+        {
+            nurseAudioSource.PlayOneShot(doneAudioClip);
+            syringeCollide.isSyringeDone = false;
         }
     }
     IEnumerator PlaySecondClipAfterDelay()
@@ -45,5 +54,8 @@ public class NurseAudio : MonoBehaviour
             nurseAudioSource.PlayOneShot(StartIVAudioClip);
             yield return new WaitForSeconds(10); // Wait for 3 seconds
             nurseAudioSource.PlayOneShot(performIVAudioClip);
+            
     }
+
+    
 }
